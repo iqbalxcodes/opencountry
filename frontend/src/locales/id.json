@@ -1,0 +1,15 @@
+
+{
+    "app": {
+        "title": "OpenCountry",
+        "subtitle": "Buat negara fiksi dan universe milikmu sendiri.",
+        "welcome": "Selamat datang di OpenCountry",
+        "language": "Bahasa",
+        "testMessage": "Duniamu, aturanmu.",
+        "buttons": {
+            "createCountry": "Buat Negara",
+            "login": "Masuk",
+            "register": "Daftar"
+        }
+    } 
+}

@@ -1,0 +1,15 @@
+
+{
+    "app": {
+        "title": "OpenCountry",
+        "subtitle": "Erstelle dein eigenes fiktives Land und Universum.",
+        "welcome": "Willkommen bei OpenCountry",
+        "language": "Sprache",
+        "testMessage": "Deine Welt, deine Regeln.",
+        "buttons": {
+            "createCountry": "Land erstellen",
+            "login": "Anmelden",
+            "register": "Registrieren"
+        }
+    }
+}

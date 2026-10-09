@@ -1,0 +1,15 @@
+
+{
+    "app": {
+        "title": "OpenCountry",
+        "subtitle": "Create your own fictional country and universe.",
+        "welcome": "Welcome to OpenCountry",
+        "language": "Language",
+        "testMessage": "Your world, your rules.",
+        "buttons": {
+            "createCountry": "Create Country",
+            "login": "Log In",
+            "register": "Register"
+        }
+    }
+}
